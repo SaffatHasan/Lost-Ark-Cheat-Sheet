@@ -4,6 +4,7 @@
 - Siren @15 & 0 kill yellow avoid black
 - move to portal
 - stand in safe zone
+- if parasite, stand on purple pool
 
 ## Boss 2
 - MARKED player stand in front a pillar
