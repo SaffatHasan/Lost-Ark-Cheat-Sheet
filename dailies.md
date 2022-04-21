@@ -17,5 +17,6 @@
 - [ ] Event Racing
     - mats, books (token exchange)
 - [ ] Tea and Libre Guild Vessel Pirate ship
+    - Pirate Coins for mats
 - [ ] Gold Shop
-    - Token for doing dailies, can redeem for gold
+    - Una's Token for doing dailies, can redeem for gold
